@@ -97,3 +97,12 @@ let countEl = document.getElementById("count");
             countEl.innerHTML = res.value;
           });
       }
+
+function enterfn() {
+        document.getElementById('user').addEventListener('keypress', function(event) {
+        console.log(event);
+        if (event.keyCode == 13) {
+          funCall()
+        }
+    })
+  }
