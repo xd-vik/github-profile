@@ -1,4 +1,4 @@
 # profilefetch
 Github Profile fetcher using github api
 
-[visit](https://huxxdev.github.io/github-profile/)
+[visit](https://xd-vik.github.io/github-profile/)
